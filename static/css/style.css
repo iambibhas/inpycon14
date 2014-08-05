@@ -2699,6 +2699,15 @@ a.btn-boxy {
           -moz-background-size: 52px 60px;
           -o-background-size: 52px 60px;
           background-size: 52px 60px; } }
+    .page-sponsors.section-sponsors h2#sponsors_accommodation {
+      background-image: url("../images/nearby_hotels_icon.png"); }
+      @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+        .page-sponsors.section-sponsors h2#sponsors_accommodation {
+          background-image: url("../images/nearby_hotels_icon@2x.png");
+          -webkit-background-size: 52px 60px;
+          -moz-background-size: 52px 60px;
+          -o-background-size: 52px 60px;
+          background-size: 52px 60px; } }
   .page-sponsors.section-sponsors .sponsor-item {
     margin-top: 40px;
     padding-bottom: 20px; }
