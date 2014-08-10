@@ -1734,9 +1734,12 @@ a.btn-boxy {
       margin-right: 3.5%; }
       .page-home.section-sponsors .sponsors-wrapper .sponsor-item.gold:nth-of-type(3n+0) {
         margin-right: 0; }
-    .page-home.section-sponsors .sponsors-wrapper .sponsor-item.silver, .page-home.section-sponsors .sponsors-wrapper .sponsor-item.bronze {
+    .page-home.section-sponsors .sponsors-wrapper .sponsor-item.silver {
       width: 23%;
       margin-right: 2.6%; }
+    .page-home.section-sponsors .sponsors-wrapper .sponsor-item.bronze {
+      width: 16%;
+      margin-right: 2.0%; }
       .page-home.section-sponsors .sponsors-wrapper .sponsor-item.silver:nth-of-type(4n+0), .page-home.section-sponsors .sponsors-wrapper .sponsor-item.bronze:nth-of-type(4n+0) {
         margin-right: 0; }
     .page-home.section-sponsors .sponsors-wrapper .sponsor-item img {
@@ -2536,6 +2539,17 @@ a.btn-boxy {
 .page-venue.section-nearby-hotels {
   padding: 40px 0;
   background: #EFF4F7; }
+  .page-venue.section-nearby-hotels img {
+    width: 23%;
+    margin-top: 20px;
+    border: 1px solid #414954;
+    background: none repeat scroll 0% 0% #FFF;
+    box-shadow: 5px 5px 0px 0px #6D7B8D;
+  }
+  .page-venue.section-nearby-hotels .content-wrapper p {
+    width: 74%;
+    float: right;
+  }
   .page-venue.section-nearby-hotels h2 {
     font-size: 36px;
     color: #6799b5;
