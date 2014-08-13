@@ -60,3 +60,76 @@ workshops:
       Open Source Portable Science Lab', type: '', url: 'http://in.pycon.org/funnel/2014/120-expeyes-python-powered-open-source-portable-science-lab',
     votes: 5, votes_count: null, votes_groups: null, audi: 3}
   timeslot: 04:00<span>PM</span>
+
+
+talks_day1:
+  8.00 - 9.15:
+  - {break: 1, name: 'Breakfast & Registrations'}
+  9.30 - 10.15:
+  - {audi: 1, name: 'Keynote 1', speaker: '', url: ''}
+  10.45 - 11.30:
+  - {audi: 1, name: 'Python, the eyes of real world computer applications', speaker: Ankush
+      Sharma, url: 'http://in.pycon.org/funnel/2014/208-python-the-eyes-of-real-world-computer-applications'}
+  - {audi: 2, name: 'Python + Spark: Lightning Fast Cluster Computing', speaker: Jyotiska
+      NK, url: 'http://in.pycon.org/funnel/2014/108-python-spark-lightning-fast-cluster-computing'}
+  11.30 - 12.15:
+  - {audi: 1, name: Building Robots using Python and Raspberry Pi, speaker: Sudar
+      Muthu, url: 'http://in.pycon.org/funnel/2014/127-building-robots-using-python-and-raspberry-pi'}
+  - {audi: 2, name: Django Design Patterns, speaker: Arun Ravindran, url: 'http://in.pycon.org/funnel/2014/227-django-design-patterns'}
+  12.15 - 13.00:
+  - {audi: 1, name: New Scientific Plotting in Python, speaker: Jack Parmer, url: 'http://in.pycon.org/funnel/2014/150-new-scientific-plotting-in-python'}
+  - {audi: 2, name: Messing with government data using Python, speaker: Anand Chitipothu,
+    url: 'http://in.pycon.org/funnel/2014/207-messing-with-government-data-using-python'}
+  13.00 - 14.00:
+  - {break: 1, name: 'Lunch'}
+  14.00 - 14.45:
+  - {audi: 1, name: 'Keynote 2', speaker: '', url: ''}
+  14.45 - 15.30:
+  - {audi: 1, name: 'Panel Discussion', speaker: '', url: ''}
+  16.00 - 16.45:
+  - {audi: 1, name: 'Medusa: A much faster Python implementation based on the Dart
+      Virtual Machine', speaker: Rahul De, url: 'http://in.pycon.org/funnel/2014/130-medusa-a-much-faster-python-implementation-based-on-the-dart-virtual-machine'}
+  - {audi: 2, name: 'Which messaging layer should you use if you want to build a loosely
+      coupled distributed Python app?', speaker: Narahari Allamraju, url: 'http://in.pycon.org/funnel/2014/135-which-messaging-layer-should-you-use-if-you-want-to-build-a-loosely-coupled-distributed-python-app'}
+  16.45 - 17.30:
+  - {audi: 1, name: 'UnicodeDecodeError: Python Strings are not what you think !',
+    speaker: nitin chadha, url: 'http://in.pycon.org/funnel/2014/133-unicodedecodeerror-python-strings-are-not-what-you-think'}
+  - {audi: 2, name: 'Introduction to BinPy - An Electronic Simulation Library',
+    speaker: 'Vajrasky Kok', url: 'http://in.pycon.org/funnel/2014/157-introduction-to-binpy-an-electronic-simulation-library'}
+
+talks_day2:
+  8.00 - 9.15:
+  - {break: 1, name: 'Breakfast & Registrations'}
+  9.30 - 10.15:
+  - {audi: 1, name: 'Keynote 3', speaker: '', url: ''}
+  10.45 - 11.30:
+  - {audi: 1, name: Faster data processing in Python, speaker: Anand S, url: 'http://in.pycon.org/funnel/2014/165-faster-data-processing-in-python'}
+  - {audi: 2, name: Auth as a service with Lastuser, speaker: Kiran Jonnalagadda, url: 'http://in.pycon.org/funnel/2014/255-auth-as-a-service-with-lastuser'}
+  11.30 - 12.15:
+  - {audi: 1, name: Transfer Pipeline at DreamWorks, speaker: Utkarsh Sinha, url: 'http://in.pycon.org/funnel/2014/224-transfer-pipeline-at-dreamworks'}
+  - {audi: 2, name: SHARQ - An API queueing system built at Plivo!, speaker: Sandeep
+      Raju, url: 'http://in.pycon.org/funnel/2014/245-sharq-an-api-queueing-system-built-at-plivo'}
+  12.15 - 13.00:
+  - {audi: 1, name: Asyncio for Dummies, speaker: Vajrasky Kok, url: 'http://in.pycon.org/funnel/2014/186-asyncio-for-dummies'}
+  - {audi: 2, name: Development to Production, speaker: Anubhav Sinha, url: 'http://in.pycon.org/funnel/2014/132-development-to-production'}
+  13.00 - 14.00:
+  - {break: 1, name: 'Lunch'}
+  14.00 - 14.45:
+  - {audi: 1, name: 'Python, Arduino and connected objects', speaker: Ankit Daftery,
+    url: 'http://in.pycon.org/funnel/2014/214-python-arduino-and-connected-objects'}
+  - {audi: 2, name: Meet ElasticSearch - My Pet Crunch Monster @Directi, speaker: Dhananjay
+      Sathe, url: 'http://in.pycon.org/funnel/2014/253-meet-elasticsearch-my-pet-crunch-monster-directi'}
+  14.45 - 15.30:
+  - {audi: 1, name: 'Bluetooth Smart with Python : Future of IoT', speaker: Anuj Deshpande,
+    url: 'http://in.pycon.org/funnel/2014/145-bluetooth-smart-with-python-future-of-iot'}
+  - {audi: 2, name: Building highly scalable web-services with Gevent - experiences
+      at Plivo, speaker: Aditya Manthramurthy, url: 'http://in.pycon.org/funnel/2014/248-building-highly-scalable-web-services-with-gevent-experiences-at-plivo'}
+  16.00 - 16.45:
+  - {audi: 1, name: GPU accelerated high performance computing primer, speaker: Gurajapu
+      Raja Sumant, url: 'http://in.pycon.org/funnel/2014/158-gpu-accelerated-high-performance-computing-primer'}
+  - {audi: 2, name: Graph everything with Neo4J and Python, speaker: Sonal Raj, url: 'http://in.pycon.org/funnel/2014/252-graph-everything-with-neo4j-and-python'}
+  16.45 - 17.30:
+  - {audi: 1, name: Lighting Talk, speaker: '', url: ''}
+  - {audi: 2, name: Lighting Talk, speaker: '', url: ''}
+  17.30 - 18.30:
+  - {audi: 1, name: 'PSSI Annual General Meeting (AGM)', speaker: '', url: ''}
