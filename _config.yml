@@ -129,7 +129,7 @@ talks_day2:
       Raja Sumant, url: 'http://in.pycon.org/funnel/2014/158-gpu-accelerated-high-performance-computing-primer'}
   - {audi: 2, name: Graph everything with Neo4J and Python, speaker: Sonal Raj, url: 'http://in.pycon.org/funnel/2014/252-graph-everything-with-neo4j-and-python'}
   16.45 - 17.30:
-  - {audi: 1, name: Lighting Talk, speaker: '', url: ''}
-  - {audi: 2, name: Lighting Talk, speaker: '', url: ''}
+  - {audi: 1, name: Lightning Talk, speaker: '', url: ''}
+  - {audi: 2, name: Lightning Talk, speaker: '', url: ''}
   17.30 - 18.30:
   - {audi: 1, name: 'PSSI Annual General Meeting (AGM)', speaker: '', url: ''}
