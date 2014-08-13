@@ -73,93 +73,30 @@ title: Schedule
           <span class="day">Saturday</span>
         </h2>
         <div class="schedule-wrapper">
-          <div class="block-time">
-            <h3>08:30<span>am</span></h3>
 
-            <div class="common-event">
-              Registrations & Breakfast
+          {% for timeslot in site.talks_day1 %}
+            <div class="block-time">
+              <h3>{{ timeslot[0] }}</h3>
+
+              <div class="events-list">
+                {% for talk in timeslot[1] %}
+                <div class="event-item">
+                  {% if talk.break != 1 %}
+                  <div class="audi">Audi {{ talk.audi }}</div>
+                  {% endif %}
+                  <div class="details">
+                    <div class="title"><a href="{{ talk.url }}">{{ talk.name }}</a></div>
+                    <div class="speaker">{{ talk.speaker }}</div>
+                  </div>
+                  <div class="clr"></div>
+                </div>
+                {% endfor %}
+              </div>
+              <div class="clr"></div>
             </div>
+          {% endfor %}
 
-            <div class="clr"></div>
-          </div>
 
-          <div class="block-time">
-            <h3>09:00<span>am</span></h3>
-
-            <div class="common-event">
-              Keynote #1 by Someone Special
-            </div>
-
-            <div class="clr"></div>
-          </div>
-
-          <!-- <div class="block-time">
-            <h3>08:30<span>am</span></h3>
-
-            <div class="events-list">
-              <div class="event-item">
-                <div class="audi">Audi 1</div>
-                <div class="details">
-                  <div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-                  <div class="speaker">Kiran Jonnalagadda</div>
-                </div>
-                <div class="clr"></div>
-              </div>
-
-              <div class="event-item">
-                <div class="audi">Audi 1</div>
-                <div class="details">
-                  <div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-                  <div class="speaker">Kiran Jonnalagadda</div>
-                </div>
-                <div class="clr"></div>
-              </div>
-
-              <div class="event-item">
-                <div class="audi">Audi 1</div>
-                <div class="details">
-                  <div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-                  <div class="speaker">Kiran Jonnalagadda</div>
-                </div>
-                <div class="clr"></div>
-              </div>
-            </div>
-            <div class="clr"></div>
-          </div>
-
-          <div class="block-time">
-            <h3>08:30<span>am</span></h3>
-
-            <div class="events-list">
-              <div class="event-item">
-                <div class="audi">Audi 1</div>
-                <div class="details">
-                  <div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-                  <div class="speaker">Kiran Jonnalagadda</div>
-                </div>
-                <div class="clr"></div>
-              </div>
-
-              <div class="event-item">
-                <div class="audi">Audi 1</div>
-                <div class="details">
-                  <div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-                  <div class="speaker">Kiran Jonnalagadda</div>
-                </div>
-                <div class="clr"></div>
-              </div>
-
-              <div class="event-item">
-                <div class="audi">Audi 1</div>
-                <div class="details">
-                  <div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-                  <div class="speaker">Kiran Jonnalagadda</div>
-                </div>
-                <div class="clr"></div>
-              </div>
-            </div>
-            <div class="clr"></div>
-          </div> -->
         </div>
       </div>
     </div>
@@ -175,93 +112,27 @@ title: Schedule
 					<span class="day">Sunday</span>
 				</h2>
 				<div class="schedule-wrapper">
-					<div class="block-time">
-						<h3>08:30<span>am</span></h3>
+					{% for timeslot in site.talks_day2 %}
+            <div class="block-time">
+              <h3>{{ timeslot[0] }}</h3>
 
-						<div class="common-event">
-							Registrations & Breakfast
-						</div>
-
-						<div class="clr"></div>
-					</div>
-
-					<div class="block-time">
-						<h3>09:00<span>am</span></h3>
-
-						<div class="common-event">
-							Keynote #2 by Someone Special
-						</div>
-
-						<div class="clr"></div>
-					</div>
-
-					<!-- <div class="block-time">
-						<h3>08:30<span>am</span></h3>
-
-						<div class="events-list">
-							<div class="event-item">
-								<div class="audi">Audi 1</div>
-								<div class="details">
-									<div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-									<div class="speaker">Kiran Jonnalagadda</div>
-								</div>
-								<div class="clr"></div>
-							</div>
-
-							<div class="event-item">
-								<div class="audi">Audi 1</div>
-								<div class="details">
-									<div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-									<div class="speaker">Kiran Jonnalagadda</div>
-								</div>
-								<div class="clr"></div>
-							</div>
-
-							<div class="event-item">
-								<div class="audi">Audi 1</div>
-								<div class="details">
-									<div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-									<div class="speaker">Kiran Jonnalagadda</div>
-								</div>
-								<div class="clr"></div>
-							</div>
-						</div>
-						<div class="clr"></div>
-					</div>
-
-					<div class="block-time">
-						<h3>08:30<span>am</span></h3>
-
-						<div class="events-list">
-							<div class="event-item">
-								<div class="audi">Audi 1</div>
-								<div class="details">
-									<div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-									<div class="speaker">Kiran Jonnalagadda</div>
-								</div>
-								<div class="clr"></div>
-							</div>
-
-							<div class="event-item">
-								<div class="audi">Audi 1</div>
-								<div class="details">
-									<div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-									<div class="speaker">Kiran Jonnalagadda</div>
-								</div>
-								<div class="clr"></div>
-							</div>
-
-							<div class="event-item">
-								<div class="audi">Audi 1</div>
-								<div class="details">
-									<div class="title"><a href="">Chugging Flask: Gyaan from building REST APIs for an Android App</a></div>
-									<div class="speaker">Kiran Jonnalagadda</div>
-								</div>
-								<div class="clr"></div>
-							</div>
-						</div>
-						<div class="clr"></div>
-					</div> -->
+              <div class="events-list">
+                {% for talk in timeslot[1] %}
+                <div class="event-item">
+                  {% if talk.break != 1 %}
+                  <div class="audi">Audi {{ talk.audi }}</div>
+                  {% endif %}
+                  <div class="details">
+                    <div class="title"><a href="{{ talk.url }}">{{ talk.name }}</a></div>
+                    <div class="speaker">{{ talk.speaker }}</div>
+                  </div>
+                  <div class="clr"></div>
+                </div>
+                {% endfor %}
+              </div>
+              <div class="clr"></div>
+            </div>
+          {% endfor %}
 				</div>
 			</div>
 		</div>
