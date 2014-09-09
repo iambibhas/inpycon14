@@ -34,7 +34,7 @@ To give you some examples, here are the list of some of the things that happened
 * Web scrapping with scrapy.
 * Learning science with [expeyes](http://www.expeyes.in/)
 
-From our side, this time, we plan to use the open spaces to host the speakers whose talks didn't into the main track. This way, the people who were interested in their topics can catch up with them at the event itself.
+From our side, this time, we plan to use the open spaces to host the speakers whose talks didn't make it into the main track. This way, the people who were interested in their topics can catch up with them at the event itself.
 
 ## Getting in touch with others
 
