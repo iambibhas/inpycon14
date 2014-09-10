@@ -40,9 +40,9 @@ Additionally, If you have proposed a talk that didn't make it in the schedule, y
 
 Pulling off something like open spaces requires one key thing - abundant communication. 
 
-There will be a board in a prominent location with a set of stickies. You can come over here and put up your name and interests, that way anyone looking to talk about something can find you and vice versa. This can act as the central point of communication for open spaces. Booking the auditorium for larger talks could also be done via stickies. To give you a quick idea, [This](http://www.globalnerdy.com/wordpress/wp-content/uploads/2011/06/barcamp-grid-1.jpg) is how barcamp did it in 2011.
+There will be a board in a prominent location with a set of stickies. You can come over here and put up your name and interests, that way anyone looking to talk about something can find you and vice versa. This can act as the central point of communication for open spaces. Booking rooms for larger talks could also be done via stickies. To give you a quick idea, [This](http://www.globalnerdy.com/wordpress/wp-content/uploads/2011/06/barcamp-grid-1.jpg) is how barcamp did it in 2011.
 
-As far as actual spaces are concerned, Nimhans is really big and the first floor can be used for discussions. We will arrange a bunch of tables as well. Also the entire of Auditorium 3 will be available for us to use.
+As far as actual spaces are concerned, Nimhans is really big and the first floor can be used for discussions. We will arrange a bunch of tables. In addition to these, there are multiple rooms on the first floor that can be utilized as well.
 
 While we are still trying to figure the details on how to make this communication as seamless as possible and this seems like a good starting point. We will share more details as things get clearer.
 
