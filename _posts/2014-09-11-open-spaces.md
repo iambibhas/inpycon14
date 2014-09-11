@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Open spaces"
-date: 2014-07-12 05:15:33
+title: "Open Spaces"
+date: 2014-09-11 20:18:00
 description: ""
-categories: 
+categories:
 tags: []
 permalink: /blog/open-spaces/
 ---
@@ -13,19 +13,19 @@ This time, we want to make room for more such conversations. This time, we are g
 
 ## What are open spaces?
 
-An open space is a place for people to come together and work on / share something. This can be anything like: 
+An open space is a place for people to come together and work on / share something. This can be anything like:
 
-* Hacking on some open source project (A feature hack, a Bug bust, etc) 
+* Hacking on some open source project (A feature hack, a Bug bust, etc)
 * Code reading. Pick up a FOSS and start. An experienced hacker can take a group along for a quick intro.
 * Sharing a cool refactor technique
 * Talking about how a technology is used in ones workplace
 * A crash course on static site generators
 * Round table hacking
-* … Or even an all out vim VS emacs battle. 
+* … Or even an all out vim VS emacs battle.
 
 The best part of an open space is that there is no schedule, there are no pre decided talks. They are entirely up to the people who attend the conference. Just get there, make an announcement and get down to it. Things work purely on a first come first serve basis. Also a smaller group generally leads to a lot more discussions, encourages the audience to ask more questions and keep things lively.
 
-To give you some examples, here are the list of some of the things that happened in the open spaces last year: 
+To give you some examples, here are the list of some of the things that happened in the open spaces last year:
 
 * Deploying python application in heroku
 * Python 3 difference and experience in porting python 2 to python 3
@@ -38,7 +38,7 @@ Additionally, If you have proposed a talk that didn't make it in the schedule, y
 
 ## Getting in touch with others
 
-Pulling off something like open spaces requires one key thing - abundant communication. 
+Pulling off something like open spaces requires one key thing - abundant communication.
 
 There will be a board in a prominent location with a set of stickies. You can come over here and put up your name and interests, that way anyone looking to talk about something can find you and vice versa. This can act as the central point of communication for open spaces. Booking rooms for larger talks could also be done via stickies. To give you a quick idea, [This](http://www.globalnerdy.com/wordpress/wp-content/uploads/2011/06/barcamp-grid-1.jpg) is how barcamp did it in 2011.
 
