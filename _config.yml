@@ -112,7 +112,7 @@ talks_day2:
   - {audi: 2, name: 'Introduction to BinPy - An Electronic Simulation Library',
     speaker: 'Raghav R V', url: 'http://in.pycon.org/funnel/2014/157-introduction-to-binpy-an-electronic-simulation-library'}
   11.30 - 12.15:
-  - {audi: 1, name: New Scientific Plotting in Python, speaker: Jack Parmer, url: 'http://in.pycon.org/funnel/2014/150-new-scientific-plotting-in-python'}
+  - {audi: 1, name: New Scientific Plotting in Python, speaker: "Ben Postlethwaite", url: 'http://in.pycon.org/funnel/2014/150-new-scientific-plotting-in-python'}
   - {audi: 2, name: Building highly scalable web-services with Gevent - experiences
       at Plivo, speaker: Aditya Manthramurthy, url: 'http://in.pycon.org/funnel/2014/248-building-highly-scalable-web-services-with-gevent-experiences-at-plivo'}
   12.15 - 13.00:
