@@ -82,8 +82,8 @@ talks_day1:
   12.15 - 13.00:
   - {audi: 1, name: Messing with government data using Python, speaker: Anand Chitipothu,
     url: 'http://in.pycon.org/funnel/2014/207-messing-with-government-data-using-python'}
-  - {audi: 2, name: 'UnicodeDecodeError: Python Strings are not what you think !',
-    speaker: nitin chadha, url: 'http://in.pycon.org/funnel/2014/133-unicodedecodeerror-python-strings-are-not-what-you-think'}
+  - {audi: 2, name: SHARQ - An API queueing system built at Plivo!, speaker: Sandeep
+      Raju, url: 'http://in.pycon.org/funnel/2014/245-sharq-an-api-queueing-system-built-at-plivo'}
   13.00 - 14.00:
   - {break: 1, name: 'Lunch'}
   14.00 - 14.45:
@@ -94,19 +94,23 @@ talks_day1:
   - {audi: 1, name: Transfer Pipeline at DreamWorks, speaker: Utkarsh Sinha, url: 'http://in.pycon.org/funnel/2014/224-transfer-pipeline-at-dreamworks'}
   - {audi: 2, name: Meet ElasticSearch - My Pet Crunch Monster @Directi, speaker: Dhananjay
       Sathe, url: 'http://in.pycon.org/funnel/2014/253-meet-elasticsearch-my-pet-crunch-monster-directi'}
+  15.30 - 16.00:
+  - {break: 1, name: 'Tea Break'}
   16.00 - 16.45:
   - {audi: 1, name: GPU accelerated high performance computing primer, speaker: Gurajapu
       Raja Sumant, url: 'http://in.pycon.org/funnel/2014/158-gpu-accelerated-high-performance-computing-primer'}
-  - {audi: 2, name: SHARQ - An API queueing system built at Plivo!, speaker: Sandeep
-      Raju, url: 'http://in.pycon.org/funnel/2014/245-sharq-an-api-queueing-system-built-at-plivo'}
+  - {audi: 2, name: 'Movie Screening - "The Internet''s Own Boy: The Story of Aaron Swartz"', speaker: '', url: 'https://mail.python.org/pipermail/inpycon/2014-July/008367.html'}
   16.45 - 17.30:
-  - {break: 1, name: 'Lightning Talks'}
+  - {audi: 1, name: 'Lightning Talks', speaker: '', url: ''}
+  - {audi: 2, name: 'Movie Screening - "The Internet''s Own Boy: The Story of Aaron Swartz"', speaker: '', url: 'https://mail.python.org/pipermail/inpycon/2014-July/008367.html'}
 
 talks_day2:
   8.00 - 9.15:
   - {break: 1, name: 'Breakfast & Registrations'}
   9.30 - 10.15:
   - {audi: 1, name: 'Keynote 2', speaker: 'Michael Foord', url: '/2014/speakers.html'}
+  10.15 - 10.45:
+  - {break: 1, name: 'Tea Break'}
   10.45 - 11.30:
   - {audi: 1, name: Async IO for Dummies, speaker: Vajrasky Kok, url: 'http://in.pycon.org/funnel/2014/186-asyncio-for-dummies'}
   - {audi: 2, name: 'Introduction to BinPy - An Electronic Simulation Library',
@@ -126,11 +130,15 @@ talks_day2:
   - {audi: 1, name: 'Python, Arduino and connected objects', speaker: Ankit Daftery,
     url: 'http://in.pycon.org/funnel/2014/214-python-arduino-and-connected-objects'}
   - {audi: 2, name: Development to Production, speaker: Anubhav Sinha, url: 'http://in.pycon.org/funnel/2014/132-development-to-production'}
+  15.30 - 16.00:
+  - {break: 1, name: 'Tea Break'}
   16.00 - 16.45:
   - {audi: 1, name: 'Which messaging layer should you use if you want to build a loosely
       coupled distributed Python app?', speaker: Narahari Allamraju, url: 'http://in.pycon.org/funnel/2014/135-which-messaging-layer-should-you-use-if-you-want-to-build-a-loosely-coupled-distributed-python-app'}
   - {audi: 2, name: Graph everything with Neo4J and Python, speaker: Sonal Raj, url: 'http://in.pycon.org/funnel/2014/252-graph-everything-with-neo4j-and-python'}
   16.45 - 17.30:
   - {break: 1, name: 'Lightning Talks'}
-  17.30 - 18.30:
-  - {audi: 1, name: 'PSSI Annual General Meeting (AGM)', speaker: '', url: ''}
+  17.30 - 18.00:
+  - {audi: 1, name: 'Closing Ceremony and Feedback Collection', speaker: '', url: ''}
+  18.00 - 19.00:
+  - {audi: 1, name: 'Annual General Meeting (AGM) of Python Software Society of India', speaker: '', url: ''}
